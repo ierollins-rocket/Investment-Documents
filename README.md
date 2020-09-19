@@ -10,7 +10,7 @@ In this repo you'll find:
 
 * [Series Seed](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Series%20Seed) equity templates based on Fenwick's Series Seed documents that have been open-sourced for nearly a decade
 
--[SAFE side letter] to include pro rata rights on future convertible securities, request basic information rights, and financing thresholds to protect against dilution
+* [SAFE side letter](https://github.com/ierollins-rocket/Investment-Documents/blob/master/SAFE) to include pro rata rights on future convertible securities, request basic information rights, and financing thresholds to protect against dilution
 
 -[Pro Rata side letter] to ensure ability to maintain ownership stake by investing in startup's future fundraising rounds
 
