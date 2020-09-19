@@ -8,7 +8,7 @@ In this repo you'll find:
 
 * [Convertible Notes](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Convertible%20Note) **template under construction**
 
--[Series Seed]( equity templates based on Fenwick's Series Seed documents that have been open-sourced for nearly a decade
+* [Series Seed](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Series%20Seed) equity templates based on Fenwick's Series Seed documents that have been open-sourced for nearly a decade
 
 -[SAFE side letter] to include pro rata rights on future convertible securities, request basic information rights, and financing thresholds to protect against dilution
 
