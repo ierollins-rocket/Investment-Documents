@@ -12,7 +12,7 @@ In this repo you'll find:
 
 * [SAFE side letter](https://github.com/ierollins-rocket/Investment-Documents/blob/master/SAFE%20side%20letter.md) to include pro rata rights on future convertible securities, request basic information rights, and financing thresholds to protect against dilution
 
-* [Pro Rata side letter](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Pro%20Rata%20Side%20Letter) to ensure ability to maintain ownership stake by investing in startup's future fundraising rounds
+* [Pro Rata side letter](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Pro%20Rata%20side%20letter.md) to ensure ability to maintain ownership stake by investing in startup's future fundraising rounds
 
 * [Diversity Rider](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Diversity%20Rider) to codify our commitment as a co-investor and check-writer for inclusion in financings 
 
