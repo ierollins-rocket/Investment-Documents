@@ -14,7 +14,7 @@ In this repo you'll find:
 
 * [Pro Rata side letter](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Pro%20Rata%20Side%20Letter) to ensure ability to maintain ownership stake by investing in startup's future fundraising rounds
 
--[Diversity Rider] to codify our commitment as a co-investor and check-writer for inclusion in financings 
+* [Diversity Rider](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Diversity%20Rider) to codify our commitment as a co-investor and check-writer for inclusion in financings 
 
 Improvements are welcome via pull requests
 
