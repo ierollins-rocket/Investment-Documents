@@ -6,7 +6,7 @@ It's in this spirit, we've created this GitHub repo to make our investment docum
 
 In this repo you'll find:
 
-* [Convertible Notes](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Convertible%20Note) **template under construction**
+* [Convertible Note](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Convertible%20Note.md) **template under construction**
 
 * [Series Seed](https://github.com/ierollins-rocket/Investment-Documents/blob/master/Series%20Seed) equity templates based on Fenwick's Series Seed documents that have been open-sourced for nearly a decade
 
